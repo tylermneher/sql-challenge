@@ -39,5 +39,3 @@ CREATE TABLE titles (
 	from_date date,
 	to_date date
 );
-
-
